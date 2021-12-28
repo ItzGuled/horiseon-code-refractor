@@ -28,4 +28,4 @@ THEN I find that they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-![Horiseon Screenshot](assets/imageshoriseonhero.png)
+![Horiseon Screenshot](assets/images/horiseonhero.png)
