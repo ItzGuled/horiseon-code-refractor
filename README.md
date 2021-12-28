@@ -8,27 +8,22 @@ The motivation behind this project is to refractor code for an existing site by 
 ## Fixes Made
 
 
-*Added alt attributes to images
-*Changed HTML semantics to more appropriate element
-*Made a more logical structure for the HTML elements
-*Added a more descriptive title 
-*Condensed alot of the CSS to avoid repetition
-*Added comments to HTML and CSS file
-## Acceptance Criteria
+-Added alt attributes to images
 
+-Changed HTML semantics to more appropriate element
 
-GIVEN a webpage that meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN I find that they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+-Made a more logical structure for the HTML elements
+
+-Added a more descriptive title 
+
+-Condensed alot of the CSS to avoid repetition
+
+-Added comments to HTML and CSS file
+
 
 ## Screenshot
 
 ![Horiseon](assets/images/hero.PNG)
+
+## Link
+https://itzguled.github.io/horiseon-code-refractor/
