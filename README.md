@@ -1,4 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor
+## HTML, CSS, and Git: Code Refactor for Horiseon
 
 ## The Motivation
 
@@ -8,11 +8,12 @@ The motivation behind this project is to refractor code for an existing site by 
 ## Fixes Made
 
 
-Added alt attributes to images
-Changed HTML semantics to more appropriate element
-Made a more logical structure for the HTML elements
-Added a more descriptive title element
-Condensed alot of the CSS to avoid repetition
+*Added alt attributes to images
+*Changed HTML semantics to more appropriate element
+*Made a more logical structure for the HTML elements
+*Added a more descriptive title 
+*Condensed alot of the CSS to avoid repetition
+*Added comments to HTML and CSS file
 ## Acceptance Criteria
 
 
@@ -28,4 +29,6 @@ THEN I find that they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-![Horiseon](assets/images/hero.PNG))
+## Screenshot
+
+![Horiseon](assets/images/hero.PNG)
